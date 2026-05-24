@@ -1,0 +1,11 @@
+Project: Cryptography Practice
+Date: 2026
+Topic: SHA-256 Hashing
+
+This is a test file used to verify the integrity of data. 
+In cryptography, even a tiny change—like changing a period to a comma—
+will result in a completely different hash value.
+
+Hashing is a one-way street. You can get the hash from the data, 
+but you cannot get the data from the hash!
+End of file.
